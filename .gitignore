@@ -32,3 +32,4 @@ node_modules/
 # Build directory (for build tools, if using them)
 dist/
 build/
+.vercel
